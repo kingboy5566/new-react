@@ -1,0 +1,9 @@
+ .headir-div{
+  border: 1px solid blue;
+  display: flex;
+  
+ }
+ h3{
+  margin-right: 10px;
+  margin-left: 3px;
+ }
